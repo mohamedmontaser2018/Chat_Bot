@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243663739777",
+    "project_id": "chatbot-edeef",
+    "storage_bucket": "chatbot-edeef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243663739777:android:18d2ee043584b675afe680",
+        "android_client_info": {
+          "package_name": "com.example.gemini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Mh45AHPWVou8PkxdQHwa_6o4opha1K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
